@@ -1,0 +1,52 @@
+.fruits{
+    border: 3px solid cyan;
+    text-align: center;
+    font-family: Karumbi;
+    background-color: chartreuse;
+    font: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+.cars {
+    border: 3pxpx solid #ff0062;
+    text-align: inherit;
+    font-family: Kinnari;
+    background-color: #800022;
+    font: 100px;
+    margin: 10px;
+    padding: 40px;
+}
+.FRUITS{
+  border: 5pxpx solid #001180;
+    text-align: unset;
+    font-family: KacstOffice;
+    background-color: #1eccd2;
+    font: 70px;
+    margin: 20px;
+    padding: 50px;
+    background-image: url("asserts/images/car 2.jpeg");
+
+}
+#computer {
+    border: 5pxpx solid #001180;
+    text-align: unset;
+    font-family: KacstOffice;
+    background-color: #1eccd2;
+    font: 70px;
+    margin: 20px;
+    padding: 50px;
+}
+style{
+  #computer{
+    background-image: url("asserts/images/lenovo.jpeg");
+}
+}
+#computer{
+    background-image: url("asserts/images/lenovo.jpeg");
+}
+.cars{
+    background-image: url("asserts/images/toyota.jpeg");
+}
+
+
+

@@ -1,0 +1,46 @@
+table{
+    width: 90%;
+    border-collapse:collapse;
+    margin: 20px;
+}
+td,th{
+    border:2px solid #00bbff;
+    padding: 15px;
+}
+th{
+    font-family: KacstOne;
+    color: #048000;
+    font: 50px
+}
+td{
+    color: darkviolet;
+    font-size: 20px;
+    font-family: cursive;
+}
+tr:nth-child(even){
+    background-color: #001180;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
